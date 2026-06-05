@@ -33,7 +33,7 @@ What this dashboard covers:
 |**Source Table**  |`Ev charging Cleaned`                                   |
 |**Tool**          |Power BI Desktop                                        |
 |**Theme**         |New Executive                                           |
-|**Report Pages**  |`3`                                                     |
+|**Report Pages**  |`4`                                                     |
 |**Total Visuals** |`19`                                                    |
 |**Key Dimensions**|City · Connectors · Operators · Status · Speed/Connector|
 |**Key Measures**  |Total Revenue · Total Energy Dispensed · Avg Revenue/kWh|
